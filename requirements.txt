@@ -6,4 +6,4 @@ cffi==1.12.2
 python-dateutil==2.8.0
 wget==3.2
 scikit-image==0.14.2
-pytest==4.2.0
+pytest==4.3.0
