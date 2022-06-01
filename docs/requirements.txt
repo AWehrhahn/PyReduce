@@ -1,4 +1,4 @@
-astropy==5.0.4
+astropy==5.1
 cffi==1.15.0
 colorlog==6.6.0
 corner==2.2.1
