@@ -7,7 +7,7 @@ emcee==3.1.2
 joblib==1.1.0
 jsonschema==4.9.0
 matplotlib==3.5.2
-numpy==1.23.0
+numpy==1.23.1
 
 # optional for tools combine
 # git+https://github.com/cylammarco/SpectRes
