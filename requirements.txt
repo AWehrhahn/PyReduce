@@ -6,7 +6,7 @@ corner==2.2.1
 emcee==3.1.2
 joblib==1.1.0
 jsonschema==4.15.0
-matplotlib==3.5.2
+matplotlib==3.5.3
 numpy==1.23.0
 
 # optional for tools combine
