@@ -20,5 +20,5 @@ python-dateutil==2.8.2
 scikit-image==0.22.0
 scipy==1.12.0
 sphinx==7.2.6
-tqdm==4.64.1
+tqdm==4.66.1
 wget==3.2
