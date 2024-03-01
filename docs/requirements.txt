@@ -10,7 +10,7 @@ numpy==1.26.4
 pre-commit==3.6.2
 pytest==8.0.2
 pytest-cov==4.1.0
-python-dateutil==2.8.2
+python-dateutil==2.9.0
 scikit-image==0.19.3
 scipy==1.9.3
 sphinx==5.3.0
