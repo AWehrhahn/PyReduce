@@ -17,7 +17,7 @@ pre-commit==3.6.2
 pytest==8.0.2
 pytest-cov==4.1.0
 python-dateutil==2.9.0
-scikit-image==0.19.3
+scikit-image==0.22.0
 scipy==1.9.3
 sphinx==5.3.0
 tqdm==4.64.1
