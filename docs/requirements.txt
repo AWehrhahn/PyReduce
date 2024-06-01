@@ -8,7 +8,7 @@ jsonschema==4.22.0
 matplotlib==3.9.0
 numpy==1.26.4
 pre-commit==3.7.1
-pytest==7.2.0
+pytest==8.2.1
 pytest-cov==4.0.0
 python-dateutil==2.8.2
 scikit-image==0.19.3
