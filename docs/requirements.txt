@@ -9,7 +9,7 @@ matplotlib==3.9.0
 numpy==1.26.4
 pre-commit==3.7.1
 pytest==8.2.1
-pytest-cov==4.0.0
+pytest-cov==5.0.0
 python-dateutil==2.8.2
 scikit-image==0.19.3
 scipy==1.9.3
