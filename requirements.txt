@@ -18,7 +18,7 @@ pytest==8.2.2
 pytest-cov==5.0.0
 python-dateutil==2.9.0.post0
 scikit-image==0.24.0
-scipy==1.9.3
+scipy==1.14.0
 sphinx==5.3.0
 tqdm==4.64.1
 wget==3.2
