@@ -1,5 +1,5 @@
 astropy==6.1.2
-cffi==1.15.1
+cffi==1.16.0
 cffi>=1.0.0
 colorlog==6.7.0
 corner==2.2.1
